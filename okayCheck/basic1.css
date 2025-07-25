@@ -1,0 +1,87 @@
+
+*{
+    padding: 0%;
+    margin: 0;
+}
+.frt1{
+    background-image: url("image1.jpg");
+    background-size: cover;
+    background-repeat: space;
+    background-attachment: scroll;
+    height: 510px;
+}
+#logo{
+    height: 80px;
+    border-radius: 50%;
+}
+.frt1 h2,h1{
+    display: inline ;
+}
+#hed{
+    color: rgb(114, 57, 57);
+}
+#hed1{
+    color:aliceblue ;
+}
+.hgl{
+    display: inline;
+    color: rgb(173, 113, 35);
+}
+.hgl big{
+    color: black;
+    font-weight: 600;
+}
+.imgFornt img{
+    width: 350px;
+    border-radius: 10%;
+}
+.imgFornt{
+    display: flex;
+    justify-content: space-around;
+}
+.imgFornt p{
+    text-align: center;
+}
+.saputara{
+    width: 330px;
+}
+.imgFornt1 img{
+    margin: 2px 30px 4px 30px;
+}
+#explore{
+    border: none;
+    border-radius: 30%;
+    border-color: none ;
+    background-color:cornsilk;
+    color: darkgoldenrod;
+    font-weight: 600;
+    height: 50px;
+    width: 70px;
+}
+/* img.hover{
+    transform: scale(7);
+}
+a img{
+    transition: transform 0.3ms;
+} */
+ .lastFedback{
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+.lastFedback h3{
+    color: orange;
+}
+.loGo img{
+    border-radius: 30%;
+    height: 30px;
+}
+.lastFedback1{
+    display: flex;
+    justify-content: space-around;
+}
+.phoneSpace{
+    display: flex;
+    justify-content: center;
+    margin-right: 150px;
+}
